@@ -97,9 +97,5 @@ nav a:first-of-type {
     padding: 1rem 0;
     margin-top: 1rem;
   }
-
-  nav #appNav {
-    transition-timing-function: east;
-  }
 }
 </style>
